@@ -1,18 +1,16 @@
 import './App.css'
+import PremierFilms from './pages/PremierFilms'
+import HighBudget from './pages/HighBudget'
 
 function App() {
 
   return (
-    <>
-      Header
-      Trailer
-      PopularFilms
-      PopularPersons
-      LastNews
-      PremierFilms
-      HighBudget
-      Subscribe
-      Footer
+    <>      
+      <PremierFilms />
+      
+      <HighBudget/>
+      
+       
     </>
   )
 }
