@@ -1,18 +1,12 @@
 import './App.css'
-
+import LastNews from './pages/LastNews.jsx'
 function App() {
 
   return (
     <>
-      Header
-      Trailer
-      PopularFilms
-      PopularPersons
-      LastNews
-      PremierFilms
-      HighBudget
-      Subscribe
-      Footer
+
+      <LastNews/>
+
     </>
   )
 }
