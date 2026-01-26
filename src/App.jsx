@@ -1,18 +1,11 @@
 import './App.css'
+import PopularPersons from './pages/PopularPersons'
 
 function App() {
 
   return (
     <>
-      Header
-      Trailer
-      PopularFilms
-      PopularPersons
-      LastNews
-      PremierFilms
-      HighBudget
-      Subscribe
-      Footer
+      <PopularPersons/>
     </>
   )
 }
