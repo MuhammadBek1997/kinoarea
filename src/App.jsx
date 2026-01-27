@@ -1,19 +1,11 @@
 import './App.css'
+import Header from './pages/Header'
 
 function App() {
 
   return (
     <>
-      Header
-      Trailer
-      PopularFilms
-      PopularPersons
-      LastNews
-      PremierFilms
-      HighBudget
-      Subscribe
-      Footer
-      test
+     <Header/>
     </>
   )
 }
