@@ -13,6 +13,7 @@ function App() {
       HighBudget
       Subscribe
       Footer
+      test
     </>
   )
 }
