@@ -1,0 +1,34 @@
+body{
+    background-color: #151A26;
+}
+
+.premyeralar{
+    width: 1920px;
+    height: 700px;
+    background: #151A26;
+}
+.premyeralar h2{
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.novinki{
+    display: flex;
+    gap: 52%;
+    margin-left: 12%;
+}
+.novinki-img{
+    margin-top: 3pc;
+}
+.kino-img{
+    display: flex;
+    gap: 1pc;
+    margin-left: 12%;
+}
+.kino-img h3{
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.kino-img h4{
+    font-size: 15px;
+    color: #F2F60F;
+}
