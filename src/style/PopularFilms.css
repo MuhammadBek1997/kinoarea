@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.popular-films {
+
+    background: #151A26;
+}
+
+.container {
+    display: flex;
+
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.container h2 {
+    width: 800px;
+    height: 83px;
+    margin-left: px;
+    font-size: 65px;
+    color: white;
+}
+
+.container h4 {
+    color: rgb(129, 119, 119);
+}
+
+.color {
+    color: white;
+}
+
+.films {
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+    margin-left: 118px;
+}
+
+.films img {
+    width: 326px;
+    height: 455px;
+
+}
+
+.films h5 {
+    color: #FFFFFF;
+    margin-top: 9px;
+    font-size: 18px;
+}
+
+.films p {
+    color: #F2F60F;
+    font-size: 15px;
+}
+
+.slider {
+    text-align: center;
+    justify-content: center;
+    margin-top: 55px;
+
+}

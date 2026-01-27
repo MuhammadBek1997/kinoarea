@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.PopularPersons{
+    max-width:1900px;
+    height: 631px;
+    background-color:#1E2538;
+}
+.PopularPersons-cont{
+    display: flex;
+    gap: 400px;
+    color:#ffffff;
+}
+.PopularPersons-cont h1{
+  font-size: 50px;
+}
+.PopularPersons-cont{
+    margin-left: 50px;
+}
+.year{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.color{
+    color:#8e93a6;
+}
+.card-PopularPersons{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    gap: 10px;
+}
+.card{
+    width: 444px;
+    height: 444px;
+    background-image: url(./public/images/foto.png);
+}
+.card2 {
+    width: 444px;
+    height: 444px;
+    background-image: url(../public/images/kal.png);
+}
+
+
+
+.box {
+  width: 444px;
+  height:444px ;
+  border: 3px solid;
+  border: none;
+  padding: 25px;
+  background: #1B2133;
+  border-radius:20px ;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #1f2933;
+}
+
+.item:last-child {
+  border-bottom: none;
+}
+
+h3 {
+  margin: 0;
+  margin-top:5px;
+  margin-bottom: 9px;
+  color: white;
+}
+
+.name {
+  margin: 4px 0;
+  padding-bottom: 5px;
+  color: #3B486B;
+  font-size: 14px;
+}
+
+.age {
+  margin: 0;
+  color: #F2F60F;
+  font-size: 14px;
+}
+
+.place {
+  color: #F2F60F;
+  font-weight: bold;
+}
+
+.top-rank h4{
+    color: #F2F60F;
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.info{
+    margin-top:300px;
+    color: #ffffff;
+    display: grid;
+    gap: 10px;
+    margin-left: 25px;
+}
+.age-cont {
+    color:#F2F60F;
+}
+.nickname{
+    color: #FFFFFF59;
+}
+

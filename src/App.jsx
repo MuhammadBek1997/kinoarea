@@ -1,5 +1,9 @@
 import './App.css'
 import LastNews from './pages/LastNews.jsx'
+import PopularPersons from './pages/PopularPersons'
+import PopularFilms from './pages/PopularFilms.jsx'
+import Header from './pages/Header'
+
 function App() {
 
   return (
@@ -7,6 +11,10 @@ function App() {
 
       <LastNews/>
 
+      <PopularPersons/>
+    <Header/>
+      <PopularFilms />
+     
     </>
   )
 }
