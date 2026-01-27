@@ -1,4 +1,7 @@
+import { FlatESLint } from 'eslint/use-at-your-own-risk'
 import './App.css'
+import Subscribe from './pages/Subscribe.jsx'
+import Footer from './pages/Footer.jsx'
 import PremierFilms from './pages/PremierFilms'
 import HighBudget from './pages/HighBudget'
 import LastNews from './pages/LastNews.jsx'
@@ -16,6 +19,8 @@ function App() {
       
        
     <>
+  <Subscribe/>
+  <Footer/>
 
       <LastNews/>
 
