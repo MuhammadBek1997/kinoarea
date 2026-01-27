@@ -1,0 +1,65 @@
+.filmlar{
+    width: 1920px;
+    height: 500px;
+    background: #151A26;
+    margin-top: 1%;
+    margin-left: 260px;
+}
+.text{
+    width: 1400px;
+    display: flex;
+    gap: 3pc;
+}
+.text h5{
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.text h3{
+    margin-top: 5.2pc;
+    color: #FFFFFF;
+}
+.text img{
+    margin-top: 5pc;
+}
+.line{
+    margin-left: 12pc;
+    padding-top: 12px;
+}
+.mir{
+    margin-left: 12pc;
+}
+.highBudget-imgs{
+    width: 1400px;
+    display: flex;
+    gap: 37px;
+    margin-top: 3pc;
+}
+.imgs{
+    width: 250px;
+    height: 141.2px;
+    display: flex;
+}
+.imgs img{
+    width: 95px;
+    height: 141.2px;
+}
+.one{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.two{
+    font-size: 14px;
+    color: #F2F60F;
+    margin-top: 12px;
+}
+.three{
+    font-size: 12px;
+    color: #FFFFFF69;
+    margin-top: 12px;
+}
+.info{
+    width: 155px;
+    height: 70px;
+    margin-left: 12px;
+    margin-top: 2pc;
+}
