@@ -1,18 +1,14 @@
+import { FlatESLint } from 'eslint/use-at-your-own-risk'
 import './App.css'
+import Subscribe from './pages/Subscribe.jsx'
+import Footer from './pages/Footer.jsx'
 
 function App() {
 
   return (
     <>
-      Header
-      Trailer
-      PopularFilms
-      PopularPersons
-      LastNews
-      PremierFilms
-      HighBudget
-      Subscribe
-      Footer
+  <Subscribe/>
+  <Footer/>
     </>
   )
 }
